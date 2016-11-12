@@ -1,3 +1,18 @@
+/******************************************
+*******************************************   
+**                                       **
+**    ----- CONNECT - FOUR --------      **
+**                                       **
+**   User:  DevelTwist                   **
+**                                       **
+**   Realizado:  20/10/2016              **
+**                                       **
+**   Ultima Actualizacion: 11/11/2016    **
+**                                       **
+**                                       **
+*******************************************
+******************************************/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <windows.h>
@@ -38,7 +53,7 @@ void logo();
 void Instrucciones();
 
 /* Pre-Juego*/
-void logo(){ // DISEÑO DEL LOGO DEL MENU
+void logo(){ // DISEÃ‘O DEL LOGO DEL MENU
 	
 int a=3;	
 	
